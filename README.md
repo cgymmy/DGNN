@@ -1,4 +1,6 @@
 # DGNet
+Title: DGNet: A Neural Network Framework Induced by Discontinuous Galerkin Methods
+
 Paper Link: [https://arxiv.org/abs/2503.06364](https://arxiv.org/abs/2503.06364)
 
 ## Abstract
