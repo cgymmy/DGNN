@@ -1,4 +1,4 @@
-# DGNet
+# DGNN
 Title: DGNN: A Neural PDE Solver Induced by Discontinuous Galerkin Methods
 
 Paper Link: [https://arxiv.org/abs/2503.10021](https://arxiv.org/abs/2503.10021)
