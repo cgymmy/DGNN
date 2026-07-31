@@ -1,0 +1,11 @@
+DG_2dpoisson_irregular_15_20_3_0.05_2_20_tanh, 1490.5878 seconds
+DG_2dpoisson_regular_15_20_3_0.05_2_20_tanh, 1626.2457 seconds
+DG_2dpoisson_regular_15_20_3_0.05_2_20_tanh, 64.9227 seconds
+DG_2dpoisson_irregular_15_20_3_0.08_2_20_tanh, 417.2460 seconds
+DG_2dpoisson_irregular_15_20_3_0.01_2_20_tanh, 429.4114 seconds
+DG_2dpoisson_polygon_15_20_3_0.02_2_20_tanh, 419.7575 seconds
+DG_2dpoisson_polygon_15_20_3_0.01_2_20_tanh, 647.8265 seconds
+DG_2dpoisson_regular_15_20_3_0.05_2_20_tanh_adamw, 173.6480 seconds
+DG_2dpoisson_regular_15_20_3_0.01_2_20_tanh_adamw, 230.7321 seconds
+DG_2dpoisson_regular_15_20_3_0.01_2_20_tanh, 751.2449 seconds
+DG_2dpoisson_polygon_5_5_2_0.003_2_20_tanh, 773.0962 seconds
